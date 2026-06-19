@@ -5,6 +5,4 @@ permalink: /cv/
 author_profile: false
 ---
 
-# CV
-
 My CV can be found [here](/files/CV.pdf).
