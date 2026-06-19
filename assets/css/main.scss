@@ -43,11 +43,10 @@
 ;
 
 /* Custom CSS */
-
 .greedy-nav {
   justify-content: flex-end;
 }
 
-.site-title {
-  display: none;
+.greedy-nav .visible-links {
+  margin-left: auto;
 }
