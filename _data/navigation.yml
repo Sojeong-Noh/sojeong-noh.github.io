@@ -9,13 +9,13 @@
 
 main:
   - title: "About"
-    url: https://sojeong-noh.github.io/ 
+    url: /
     
   - title: "CV"
-    url: https://sojeong-noh.github.io/cv/
+    url: /cv/
 
   - title: "Research"
-    url: https://sojeong-noh.github.io/researchs/  
+    url: /research/  
     
   # - title: "CV"
   #   url: /cv-json/
