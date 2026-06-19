@@ -1,24 +1,39 @@
 ---
 title: "About"
 permalink: /
-------------
+author_profile: false
+---
 
-# So Jeong Noh
+<div style="display: flex; align-items: flex-start; gap: 35px; max-width: 900px;">
 
-PhD Student in Politics
-New York University
+<div style="flex: 1;">
 
-My research focuses on international relations and international political economy, with particular interests in international financial institutions, sovereign debt, and the political economy of global governance.
+<h1><strong>So Jeong</strong> Noh</h1>
 
-I am interested in how international institutions shape state behavior, how governments respond to financial crises and debt pressures, and how domestic political considerations influence international economic cooperation.
+<p>
+PhD Student, Department of Politics, New York University
+</p>
 
-## Research Interests
+<p>
+I am a PhD student in Politics at New York University.
+</p>
 
-* International Relations
-* International Political Economy
-* International Financial Institutions
-* Sovereign Debt
+<p>
+My research interests are in international relations and international political economy, with a focus on international financial institutions, sovereign debt, and global governance.
+</p>
 
-## Contact
+<p>
+I am interested in how international institutions shape state behavior, how governments respond to debt pressures, and how domestic politics influence international economic cooperation.
+</p>
 
-Email: [sn3410@nyu.edu](mailto:sn3410@nyu.edu)
+<p>
+You can reach me at: sn3410 [at] nyu [dot] edu
+</p>
+
+</div>
+
+<div>
+<img src="/images/profile.jpg" style="width: 280px; border-radius: 4px;">
+</div>
+
+</div>
