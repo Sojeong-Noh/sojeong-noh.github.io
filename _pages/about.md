@@ -10,7 +10,12 @@ author_profile: false
 
 <h1><strong>So Jeong</strong> Noh</h1>
 
-PhD Student, [Wilf Family Department of Politics, New York University](https://as.nyu.edu/departments/politics/phd-program.html)
+<p>
+PhD Student,
+<a href="https://as.nyu.edu/departments/politics/phd-program.html">
+Wilf Family Department of Politics, New York University
+</a>
+</p>
 
 <p>
 I am a PhD student in Politics at New York University.
@@ -32,7 +37,7 @@ You can reach me at: sn3410 [at] nyu [dot] edu
 
 <div>
 <img src="/images/profile.jpg"
-     style="float:right; width:270px; margin-top:100px; margin-left:30px;">
+     style="float:right; width:270px; margin-top:90px; margin-left:30px;">
 </div>
 
 </div>
