@@ -33,7 +33,8 @@ You can reach me at: sn3410 [at] nyu [dot] edu
 </div>
 
 <div>
-<img src="/images/profile.jpg" style="width: 280px; border-radius: 4px;">
+<img src="/images/profile.jpg"
+     style="float:right; width:240px; margin-top:30px; margin-left:30px;">
 </div>
 
 </div>
