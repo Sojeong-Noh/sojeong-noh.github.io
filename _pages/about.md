@@ -11,7 +11,7 @@ author_profile: false
 <h1><strong>So Jeong</strong> Noh</h1>
 
 <p>
-PhD Student, Department of Politics, New York University
+PhD Student, [Wilf Family Department of Politics, New York University](https://as.nyu.edu/departments/politics/phd-program.html)
 </p>
 
 <p>
