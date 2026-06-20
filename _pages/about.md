@@ -10,6 +10,9 @@ author_profile: false
 
 <h1><strong>So Jeong</strong> Noh</h1>
 
+<img src="/images/profile.jpg"
+     style="float:right; width:260px; margin-top:60px; margin-left:35px;">
+
 <p>
 PhD Student,
 <a href="https://as.nyu.edu/departments/politics/phd-program.html">
@@ -35,9 +38,6 @@ You can reach me at: sn3410 [at] nyu [dot] edu
 
 </div>
 
-<div>
-<img src="/images/profile.jpg"
-     style="float:right; width:260px; margin-top:170px; margin-left:30px;">
-</div>
+
 
 </div>
